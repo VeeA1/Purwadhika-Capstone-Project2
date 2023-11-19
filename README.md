@@ -1,4 +1,4 @@
-# Purwadhika-Capstone-Project2
+# Purwadhika Capstone Project 2 - Data Analysis
 
 ### Business Understanding
 Mengutip dari web wikipedia, supermarket merupakan sebuah usaha dalam bentuk toko yang menganut sistem swalayan dalam pengoperasiannya dimana dalam pengelolaannya dikelola oleh pribadi maupun franchise. Pada supermarket menawarkan berbagai macam produk seperti makanan dalam bentuk bahan maupun olahan, minuman, dan serta berbagai produk rumah tangga seperti alat dapur dan lain sebagainya. Untuk ukuran luas dari supermarket sendiri berukuran sedang dimana untuk ukurannya lebih besar jika dibandingkan dengan minimarket dan lebih kecil dari sebuah hypermart. Dalam pengoperasiannya, supermarket tidak luput dari berbagai macam strategi marketing yang bertujuan untuk menarik minat calon pembeli untuk bertransaksi atau memikat pelanggan agar membeli lebih banyak produk yang ditawarkan oleh pihak supermarket. Sebagai contoh strategi marketing yang dapat dilakukan oleh pihak marketing adalah pemberian promo ekstra diskon untuk member tertentu, tebus murah, dan pembagian flyer promo secara perorangan. 
